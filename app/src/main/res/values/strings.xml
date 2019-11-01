@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login Design</string>
+    <string name="login">Login</string>
+    <string name="reg">Register</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="gen">Gender</string>
+</resources>
